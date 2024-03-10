@@ -57,12 +57,13 @@ h2 {
   position: relative;
   z-index: 1;
   text-align: right;
-  height: auto;
+  height: 90vh;
   background-color: #e63e3a;
 }
 .section-img img {
   width: 100%;
   object-fit: cover;
+  height: 90vh;
 }
 .section-img .brand {
   color: #e63e3a;
@@ -149,6 +150,7 @@ h2 {
   background-color: #101820;
   width: 250px;
   color: #e63e3a;
+  font-size: 16px;
 }
 .section-orange button span {
   color: #e63e3a;

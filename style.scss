@@ -58,11 +58,12 @@ h2 {
   position: relative;
   z-index: 1;
   text-align: right;
-  height: auto;
+  height: 90vh;
   background-color: $orange;
   img {
     width: 100%;
     object-fit: cover;
+    height: 90vh;
   }
   .brand {
     color: $orange;
@@ -153,6 +154,7 @@ h2 {
     background-color: $black;
     width: 250px;
     color: $orange;
+    font-size: 16px;
     span {
       color: $orange;
     }
